@@ -1,7 +1,7 @@
-/*Simport { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import "./Dashboard.css";
 
-/*export default function Dashboard() {
+export default function Dashboard() {
   return (
     <div className="dash-root">
       <div className="top-bar">
